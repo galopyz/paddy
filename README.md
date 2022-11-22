@@ -1,2 +1,2 @@
 # paddy
-Playing with paddy competition from kaggle
+Playing with [paddy competition](https://www.kaggle.com/competitions/paddy-disease-classification) from kaggle
